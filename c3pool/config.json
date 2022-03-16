@@ -151,7 +151,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "mine.c3pool.com:13333",
+            "url": "auto.c3pool.org:13333",
             "user": "8B54dL5zmPLfcrmHeGNHX4ajZ46M4mRDpDguYevWRwpQ2E2KijPanXFBEqgYcnHksD2ZLP2KqCziJfeMJq4Eefro2NikrHx",
             "pass": "download:admin@krowspark.net",
             "rig-id": null,
